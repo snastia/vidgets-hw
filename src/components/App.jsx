@@ -1,7 +1,10 @@
+import { Vidgets } from "./Vidgets/Vidgets";
+
+
 export const App = () => {
   return (
     <div>
-      React homework template
+      <Vidgets/>
     </div>
   );
 };
